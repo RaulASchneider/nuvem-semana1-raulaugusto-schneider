@@ -15,3 +15,6 @@ Problemas comuns e como resolver
 • Pages nao aparece: verifique se o repositorio e publico e se voce tem acesso a Settings > Pages. • Erro 404 no link: aguarde alguns minutos e atualize; confirme branch main e /(root). 
 • Site abre mas sem CSS: confirme que o arquivo se chama exatamente style.css e o link no HTML esta  correto. 
 • API opcional nao funciona: pode ser bloqueio de rede; a parte opcional nao impede a entrega. 
+
+# SEMANA-2
+Foram adicionadas as funções de teste de API, Get Weather e POST. Porém ocorre erro <img width="533" height="36" alt="image" src="https://github.com/user-attachments/assets/c2b820ae-30f7-42b5-9d36-0bb4fa5d1418" />
